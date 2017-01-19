@@ -1,0 +1,20 @@
+*{
+  color: white;
+  text-align: center;
+  background-repeat: round;
+}
+
+h1{
+  background-color: black;
+  display: inline;
+}
+
+h3{
+  background-color: black;
+}
+
+iframe{
+  border: 10px double white;
+  border-radius: 3em;
+  box-shadow: 10px 10px black;
+}
